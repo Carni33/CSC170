@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Adventurer"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Button"},{"p":"<Unnamed>","l":"Coin"},{"p":"<Unnamed>","l":"Door"},{"p":"<Unnamed>","l":"Dungeon"},{"p":"<Unnamed>","l":"Lose"},{"p":"<Unnamed>","l":"Monster"},{"p":"<Unnamed>","l":"Wall"},{"p":"<Unnamed>","l":"Win"}];updateSearchResults();

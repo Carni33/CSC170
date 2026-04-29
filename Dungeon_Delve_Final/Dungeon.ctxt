@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dungeon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dungeon\ here.\r\n\ \r\n\ @author\ (Nickolas\ Nicholson)\ \r\n\ @version\ (Prototype\ 2\ (4/17/2026)\r\n
+comment1.params=
+comment1.target=Dungeon()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dungeon.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ checkDoor()
+comment6.params=
+comment6.target=void\ loseGame()
+comment7.params=
+comment7.target=void\ winGame()
+numComments=8
